@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background:black;
+}
+.x{
+
+    width:2000px ;
+    height:1000px ;
+
+    background: black;
+}
+.a{
+    height: 80px;
+    width: 250px;
+ border: 10px solid orange;
+border-radius: 30%;
+
+}
+.b{    height: 80px;
+    width: 250px;
+    border: 10px solid aqua;
+    border-radius: 30%;}
+.c{    height: 80px;
+    width: 250px;
+    border: 10px solid violet;
+    border-radius: 30%;}
+.d{    height: 80px;
+    width: 250px;
+    border: 10px solid red;
+    border-radius: 30%;}
