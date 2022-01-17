@@ -3,7 +3,7 @@
 
 }
 #all{width: 1920px;
-height: 1050px;
+height: 1300px;
    background-color: silver;
 }
 .s{
@@ -16,20 +16,20 @@ height: 1050px;
     margin-bottom: 20px;
 }
 .b{
-  width:   1000px;
-height: 700px;
+  width:   400px;
+height: 820px;
     background-color:red;
 margin-bottom: 5px;
 }
-.c{  width: 500px;
-    height: 300px;
+.c{  width: 1420px;
+    height: 400px;
     background-color: yellow;
 margin-left: 50px;
-
+margin-top: -20px;
 }
 .d{
-    width: 500px;
-    height: 300px;
+    width: 1420px;
+    height: 400px;
     background-color: green;
 margin-top: 20px;
 
@@ -39,6 +39,7 @@ margin-top: 20px;
 .e{  width: 1920px;
     height: 300px;
     background-color: rebeccapurple;
+    margin-top: 20px;
 }
 
 
